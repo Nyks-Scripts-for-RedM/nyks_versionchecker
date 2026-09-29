@@ -1,4 +1,4 @@
-﻿# Nyks Scripts - Version Manifests
+# Nyks Scripts - Version Manifests
 
 Centralized version repository for Nyks Scripts resources (RedM).
 
@@ -8,7 +8,7 @@ This repository hosts version manifests used by our resources to notify server o
 
 ## Available Manifests
 
-- `nyks_birdpost.json` - Pigeon & Bird Post Delivery System
+- `nyks_birdpost.nyks` - Pigeon & Bird Post Delivery System
 
 ## Format
 
