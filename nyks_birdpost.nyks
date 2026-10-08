@@ -16,8 +16,12 @@
     "changelog": [
       "Fixed letter delivery race condition (letters no longer delivered to wrong players)",
       "Server-authoritative mail delivery with character ownership verification",
+      "Fixed VORP inventory owner character ID assignment",
+      "Server-side active bird usage and model verification",
       "Automatic fallback to recipient mailbox if offline or inventory is full",
-      "Restricted admin mailbox commands with ACE permissions"
+      "Recipient mailbox ID numeric input validation",
+      "Restricted admin mailbox commands with ACE permissions",
+      "Special thanks to Wolf Creek Community (@TheEnvelop) for testing & contributions"
     ]
   }
 ]
