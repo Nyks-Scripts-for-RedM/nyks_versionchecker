@@ -1,0 +1,14 @@
+[
+  {
+    "version": "1.0.0"
+  },
+  {
+    "version": "1.0.1",
+    "changelog": [
+      "Added Watchdog Rate-Limiter (0.25s delay between dispatches)",
+      "Added Notification Stacking Limit (Max 5 visible notifications)",
+      "Added Rapid Spam Suppression (Drops infinite loop error alerts)",
+      "Added remote version checker integration with nyks_versionchecker"
+    ]
+  }
+]

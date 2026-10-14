@@ -1,0 +1,14 @@
+[
+  {
+    "version": "2.0.0",
+    "changelog": [
+      "Initial Release of nyks_craftv2",
+      "Full VORP & RSG-Core framework dual compatibility",
+      "In-game placeable stations saved in MySQL database",
+      "Live 3D prop & weapon preview camera with accurate component rendering",
+      "Custom UI with RedM aesthetics and search filtering",
+      "Multi-job, multi-grade, multi-station restriction system",
+      "Reusable tools (non-consumed ingredients) support"
+    ]
+  }
+]
